@@ -21,7 +21,7 @@ I plan to pick up some ***Internships*** in building more models to further work
 ![](https://img.shields.io/badge/Data_Visualisation-Pandas_Seaborn-informational?style=flat&color=pink)
 ![](https://img.shields.io/badge/Algorithms-NLP-informational?style=flat&color=pink)
 ![](https://img.shields.io/badge/IDE-JupyterLab-informational?style=flat&color=pink)
-![](https://img.shields.io/badge/Problem_Solving _Programming-C-informational?style=flat&color=pink)
+![](https://img.shields.io/badge/Problem_Solving_Programming-C-informational?style=flat&color=pink)
 
 ### :mag: How to find me
 You can follow me on [LinkedIn](https://www.linkedin.com/in/sai-manvitha-nadella-746b20193/)
