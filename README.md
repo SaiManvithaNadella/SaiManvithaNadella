@@ -1,27 +1,58 @@
-# Welcome! 👋
+# Hello, I'm Sai Manvitha Nadella! 👋
 
 [![Header](https://github.com/SaiManvithaNadella/SaiManvithaNadella/blob/main/header%20image.png "Header")](https://some-url.dev/)
 
 ###  :girl: Introduction
 
-Hi! My name is **Sai Manvitha Nadella** and I am an **enthusiastic Data Science learner** with a passion for solving simple to complex business queries and create models to simplify everyday human activities.
-I like to consider myself a very creative individual, and a self learner :smile:
+I am currently pursuing a Master of Professional Studies in Data Science at the University of Maryland, Baltimore County (UMBC). With a Bachelor's degree in Electronics and Communication Engineering from Jawaharlal Nehru Technological University, I bring a strong foundation in statistics, programming, and data analysis. :smile:
 
-### :books: What I'm currently working on 
+### :books: Education
 
-While I am pursuing a Bachelor's Degree in Electronics and Communication Engineering at Jawaharlal Nehru Technological University, Hyderabad
-, I found my interest in the field of **Data Science and Machine Learning with Python**, and have taken up several courses outside of college to hone my skills in the field. 
-I have completed an **Internship in Artificial Intelligence** at Tata Consultancy Services, where I built Automate Sentiment Analysis of textual comments and feedback by developing deep learning 
-algorithms with an aim to detect different types of sentiment contained in a collection of English sentences or a large 
-paragraph and accurately predict the overall sentiment of the paragraph. Developed Logistic Regression model and Naïve Bayes Classifier with 89% accuracy with help of PorterStemmer and Tf-Idf Vectorizer. Through the process, I have become proficient in Working with machine laerning packages: *Sci-kit Learn, Naive Bayes,* to name a few. 
-I plan to pick up some ***Internships*** in building more models to further work on my skills. 
+Master of Professional Studies in Data Science
+ - University of Maryland, Baltimore County
+ - Expected Graduation: May 2025
+Bachelor of Technology in Electronics and Communication Engineering
+ - Jawaharlal Nehru Technological University
+ - Graduated: August 2022
 
-### 🔧 Skills and Tools
-![](https://img.shields.io/badge/Programming_Language-Python-informational?style=flat&color=pink)
-![](https://img.shields.io/badge/Data_Visualisation-Pandas_Seaborn-informational?style=flat&color=pink)
-![](https://img.shields.io/badge/Algorithms-NLP-informational?style=flat&color=pink)
-![](https://img.shields.io/badge/IDE-JupyterLab-informational?style=flat&color=pink)
-![](https://img.shields.io/badge/Problem_Solving_Programming-C-informational?style=flat&color=pink)
+### 💻: Skills
+
+**Programming:** Python (NumPy, Pandas, Scikit-learn), R (ggplot2, dplyr), C/C++
+**Frameworks:** Familiarity with associated frameworks for Java and JavaScript
+**Web Technologies:** HTML, CSS
+**Database Management:** MySQL, TSQL, PostgreSQL, PySpark
+**Statistics & ML:** Hypothesis testing, A/B testing, Causal Inference, Regression
+**Tools:** MATLAB, Tableau, MS Excel, Git, Salesforce Apex, LWC
+
+### 🥇: Certifications
+
+ - Mathematics for Machine Learning by Imperial College London
+ - Salesforce Certified Associate
+ - KPMG Data Analytics Consulting Virtual Internship
+ - ANZ- Data@ANZ Program
+ - Salesforce Double Star Ranger
+
+### 👷‍♀️: Projects
+
+ - Retail Store Performance Data Analysis: Analyzed historical sales data from Walmart to drive strategic decisions.
+ - Image Denoising Using AutoEncoders: Built an Autoencoder Model in Keras and Python to denoise images.
+ - Financial Risk Analysis in Stock Market: Analyzed stock portfolios to provide investment consultation.
+
+### 👷‍♀️: Experience
+
+ - **Office for Academic and Pre-Professional Advising, UMBC**
+_Orientation Advisor_: Provided academic advising and registration assistance to new students.
+ - **Residential Life, UMBC**
+_Desk Assistant_: Managed mail distribution, security, and resident relations.
+ - **TheSmartBridge**
+_Salesforce Developer Intern_: Created Salesforce Lightning Web Component to streamline data entry.
+
+### 🚺: Leadership Experience
+
+ - **Global Peer Navigator, Office of Student Affairs, UMBC**: Supported international graduate students in their academic journey.
+ - **Student Fee Advisory Committee, Financial Services, UMBC**: Reviewed and moderated fee owner presentations.
+ - **True Grits, UMBC**: Volunteered as a chef in teaching kitchen and worked with Retriever Essentials for meal packing program.
+
 
 ### :mag: How to find me
 You can follow me on [LinkedIn](https://www.linkedin.com/in/sai-manvitha-nadella-746b20193/)
