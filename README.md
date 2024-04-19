@@ -11,6 +11,7 @@ I am currently pursuing a Master of Professional Studies in Data Science at the 
 Master of Professional Studies in Data Science
  - University of Maryland, Baltimore County
  - Expected Graduation: May 2025
+   
 Bachelor of Technology in Electronics and Communication Engineering
  - Jawaharlal Nehru Technological University
  - Graduated: August 2022
